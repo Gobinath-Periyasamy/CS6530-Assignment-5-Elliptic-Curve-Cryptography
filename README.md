@@ -55,6 +55,7 @@ Receiver's public key = (209, 67)
 Please enter the message points:
 
 message_x co-ordinate : 45
+
 message_y co-ordinate : 34
 
 *************************************************
@@ -71,25 +72,35 @@ Encrypted message points using diffie hellman :
 *********************************************
 
 --------**Decrypted points are equal to the given message  points**--------
+
 Press any key to continue . . .
 
 
 **Sample Ouput 2: **
 
 E:\IIT CS Prep\IIT Sem\Cryptography Basics\EllipticCurveCrypto>ecc.exe
+
 Please enter a value : 45
+
 Please enter b value : 65
+
 The elliptic curve: y^2 mod 263 = (x^3+45x+65) mod 263
 
 
 ===================================================
 
 P       : (4, 109)
+
 Q       : (4, 154)
+
 R       : (29, 118)
+
 G       : (1, 30)
+
 order of G : 20
+
 Sender's public key = (1, 30)
+
 Receiver's public key = (127, 50)
 
 ===================================================
@@ -97,14 +108,18 @@ Receiver's public key = (127, 50)
 Please enter the message points:
 
 message_x co-ordinate : 78
+
 message_y co-ordinate : 32
 
 *************************************************
+
 * **Your input message points : (78, 32)**
+
 *************************************************
 
 Encrypted message points using diffie hellman :
-         (cipher_x,cipher_y) = ( 175, 22 )
+
+    (cipher_x,cipher_y) = ( 175, 22 )
 
 
 *********************************************
@@ -112,4 +127,5 @@ Encrypted message points using diffie hellman :
 *********************************************
 
 --------**Decrypted points are equal to the given message points**--------
+
 Press any key to continue . . .
