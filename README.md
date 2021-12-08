@@ -23,7 +23,7 @@ Given points are converted Cipher Texts Cipher x and Cipher y would be created f
 
 Then Original message is decrypted.
 
-**Sample Ouput 1 :**
+**Sample Output 1 :**
 
 E:\IIT CS Prep\IIT Sem\Cryptography Basics\EllipticCurveCrypto>ecc.exe
 
@@ -76,7 +76,7 @@ Encrypted message points using diffie hellman :
 Press any key to continue . . .
 
 
-**Sample Ouput 2:
+**Sample Output 2 : **
 
 E:\IIT CS Prep\IIT Sem\Cryptography Basics\EllipticCurveCrypto>ecc.exe
 
