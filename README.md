@@ -33,6 +33,10 @@ Please enter b value : 76
 
 The elliptic curve: y^2 mod 263 = (x^3+56x+76) mod 263
 
+
+Generated Points :
+
+
 (1, 50) (1, 213) (2, 14) (2, 249) (3, 43) (3, 220)
 (5, 84) (5, 179) (6, 75) (6, 188) (7, 40) (7, 223)
 (12, 114) (12, 149) (13, 125) (13, 138) (15, 95) (15, 168)
@@ -128,6 +132,10 @@ Please enter a value : 45
 Please enter b value : 65
 
 The elliptic curve: y^2 mod 263 = (x^3+45x+65) mod 263
+
+
+Generated Points :
+
 
 (1, 30) (1, 233) (4, 109) (4, 154) (6, 5) (6, 258)
 (8, 66) (8, 197) (9, 102) (9, 161) (10, 48) (10, 215)
