@@ -76,7 +76,7 @@ Encrypted message points using diffie hellman :
 Press any key to continue . . .
 
 
-**Sample Ouput 2: **
+**Sample Ouput 2:
 
 E:\IIT CS Prep\IIT Sem\Cryptography Basics\EllipticCurveCrypto>ecc.exe
 
