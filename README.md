@@ -12,8 +12,10 @@ Assignments for IIT CS6530 Cryptography Basics
 Steps to Execute the Program:
 
   1.  To open the **ecc.exe** file.
-  2.  To input a,b values
-  3.  To input the message points Eg : 56,98,87, etc.
+  2.  To input a value. Eg : 56
+  3.  To input b value. Eg : 76
+  4.  To input message x point Eg : 45
+  5.  To input message y point Eg : 34
 
 Private and Public keys will be generated.
 
@@ -24,19 +26,28 @@ Then Original message is decrypted.
 **Sample Ouput 1 :**
 
 E:\IIT CS Prep\IIT Sem\Cryptography Basics\EllipticCurveCrypto>ecc.exe
+
 Please enter a value : 56
+
 Please enter b value : 76
+
 The elliptic curve: y^2 mod 263 = (x^3+56x+76) mod 263
 
 
 ===================================================
 
 P       : (2, 14)
+
 Q       : (2, 249)
+
 R       : (18, 135)
+
 G       : (1, 50)
+
 order of G : 50
+
 Sender's public key = (1, 50)
+
 Receiver's public key = (209, 67)
 
 ===================================================
@@ -51,6 +62,7 @@ message_y co-ordinate : 34
 *************************************************
 
 Encrypted message points using diffie hellman :
+
          (cipher_x,cipher_y) = ( 200, 174 )
 
 
@@ -58,7 +70,7 @@ Encrypted message points using diffie hellman :
 * **Decrypted message points = (45, 34)**
 *********************************************
 
---------**Decrypted points are equal to the given message**--------
+--------**Decrypted points are equal to the given message  points**--------
 Press any key to continue . . .
 
 
@@ -99,5 +111,5 @@ Encrypted message points using diffie hellman :
 * **Decrypted message points = (78, 32)**
 *********************************************
 
---------**Decrypted points are equal to the given message**--------
+--------**Decrypted points are equal to the given message points**--------
 Press any key to continue . . .
